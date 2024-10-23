@@ -1,0 +1,4 @@
+git commit -m "Initial commit"
+mkdir my-new-repo
+cd my-new-repo
+git push -u origin main
